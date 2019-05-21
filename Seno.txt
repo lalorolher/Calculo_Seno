@@ -1,0 +1,42 @@
+﻿Nombre
+
+Seno.apk
+
+
+Realizar el cálculo de una función dada, realizando los cálculos a través de métodos factoriales
+en diferentes versiones
+
+Sinopsis
+
+1.-Realizar el cálculo factorial de n hasta 13
+2.-Generar el cálculo correspondiente a través de métodos que permitan calcular el factorial de n números
+3.-Mostrar por pantalla el cálculo correspondiente
+
+
+
+Descripcion
+
+Este programa realiza elcálculo de una función n a través de factorial de un número
+
+Ejemplos
+
+Si 3 es le número a calcular el resultado es 10.01843
+
+Si 2 es le número a calcular el resultado es 2.2691
+
+
+Ver tambien
+:
+Seno.txt
+
+Se consideran valores decimales
+No es permitido el cálculo de número negativos
+
+
+Autor
+:
+Roldán Hernández Eduardo Antonio
+Tel: Movil 5547697822
+Correo: andriu_rost_jam@hotmail.com
+
+Direccion. Santo Domingo, Coyoacán
